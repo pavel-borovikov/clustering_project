@@ -2,7 +2,7 @@
 
  by James Kidd, Thames Manisy, Pavel Borovikov
 
-    In this project, we web-scraped comments and posts from Reddit's [r/politics](https://www.reddit.com/r/politics/) subreddit during 2020 using Pushshift API and used unsupervised machine learning to find relevant similarities between comments and post titles.
+In this project, we web-scraped comments and posts from Reddit's [r/politics](https://www.reddit.com/r/politics/) subreddit during 2020 using Pushshift API and used unsupervised machine learning to find relevant similarities between comments and post titles.
 
 <br>
 
